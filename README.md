@@ -1,2 +1,4 @@
 # ISIC-SIM-24ISICM002
-Repositorio para la materia de Simulacion de cuarto semestre de la carrera de ingeniera en sistemas computacionales por el itspr
+Encabezado: Simulacion Ing en Sistemas
+Datos: Roberto Yahir Hernandez Almazan 24ISIM002
+Proposito: Repositorio usado para subir proyectos correspondientes a la materia.
