@@ -24,7 +24,7 @@ public class SIM005 extends JFrame {
         JLabel etiqueta = new JLabel("Pasa el ratón por aquí", SwingConstants.CENTER);
         etiqueta.setPreferredSize(new Dimension(200, 50));
         etiqueta.setOpaque(true);
-        etiqueta.setBackground(Color.BLUE);
+        etiqueta.setBackground(Color.LIGHT_GRAY);
 
         etiqueta.addMouseListener(new MouseAdapter() {
             @Override
